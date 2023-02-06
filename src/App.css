@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+.container{
+  /* border: 1px solid black; */
+  width: 90%;
+  max-width: 400px;
+  margin: 30px auto;
+  
+}
+.container img{
+  width: 100%;
+  
+}
+.container .text{
+  text-align: left;
+  border: 1px solid gray;
+
+}
+.container .text h4{
+  margin-left: 10px;
+}
+.container .text span{
+  background-color: black;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+.btn{
+  background-color: whitesmoke;
+  padding: 10px;
+  border: 1px solid gray;
+}
+.btn:hover button{
+  background-color: blue;
+  color: #fff;
+}
+.btn button{
+  border: 1px solid yellow;
+  padding: 5px;
+  color: yellow;
+  background-color: #fff;
+}
